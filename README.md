@@ -2,7 +2,7 @@
 
 JavaScript modular utilitary library.
 
-https://crisstanza.github.io/Utils.js/
+Documentation: https://crisstanza.github.io/Utils.js/
 
 
 Availabe modules (and dependencies tree):
@@ -12,5 +12,5 @@ Availabe modules (and dependencies tree):
     - Utils.COOKIES.js
       - Utils.COOKIES.JSON.js
     - Utils.DOM.js
-    - Utils.FOMS.js
+    - Utils.FORMS.js
     - Utils.STRINGS.js
