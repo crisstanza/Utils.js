@@ -5,7 +5,7 @@ JavaScript modular utilitary library.
 Documentation: https://crisstanza.github.io/Utils.js/
 
 
-Availabe modules (and dependencies tree):
+Available modules (and dependencies tree):
 
   - Utils.js
     - Utils.ARRAYS.js
@@ -14,3 +14,10 @@ Availabe modules (and dependencies tree):
     - Utils.DOM.js
     - Utils.FORMS.js
     - Utils.STRINGS.js
+
+    - Utils.Tabber
+    - Utils.UnRadio.js
+
+CSS:
+
+  - Utils.Tabber.css
