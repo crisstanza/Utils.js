@@ -10,7 +10,7 @@ if (!Utils) { var Utils = {}; }
 
 	Utils.UnRadio.start = function(event) {
 		var source = document;
-		var radios = source.querySelectorAll('input[type=radio]');
+		var radios = source.querySelectorAll('[data-unradio=true] input[type=radio], input[type=radio][data-unradio=true]');
 		if (radios) {
 			var length = radios.length;
 			for (var i = 0; i < length; i++) {
